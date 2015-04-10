@@ -21,6 +21,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise4", "Exercise4", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKata.Calculator.Exercise4.Tests", "CodeKata.Calculator.Exercise4.Tests\CodeKata.Calculator.Exercise4.Tests.csproj", "{C5564663-AAB5-41D9-BA85-BE6C170E5894}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Exercise5", "Exercise5", "{F201533A-287E-4F58-998D-1230C93B874D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKata.Calculator.Exercise5.Tests", "CodeKata.Calculator.Exercise5.Tests\CodeKata.Calculator.Exercise5.Tests.csproj", "{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,10 @@ Global
 		{C5564663-AAB5-41D9-BA85-BE6C170E5894}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5564663-AAB5-41D9-BA85-BE6C170E5894}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5564663-AAB5-41D9-BA85-BE6C170E5894}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +64,7 @@ Global
 		{62DC01FD-EFFA-4392-BEAB-587A8ACF06D2} = {2E78D9FF-0F8F-494E-B3EC-D2E9F0CEEE8F}
 		{F86C4895-08C9-4361-83F4-F7877D44FD42} = {F32674B9-A68E-4C56-8077-C71DE7C8A18C}
 		{C5564663-AAB5-41D9-BA85-BE6C170E5894} = {F86C4895-08C9-4361-83F4-F7877D44FD42}
+		{F201533A-287E-4F58-998D-1230C93B874D} = {F32674B9-A68E-4C56-8077-C71DE7C8A18C}
+		{5527265A-ED4B-4E33-8C16-B8B7C29DF3FA} = {F201533A-287E-4F58-998D-1230C93B874D}
 	EndGlobalSection
 EndGlobal
